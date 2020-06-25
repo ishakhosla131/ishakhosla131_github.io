@@ -1,0 +1,9 @@
+body {
+    color: palevioletred
+}
+#picture1{
+    margin:20px;
+    Height: 250px;
+    max-width: 250px;
+    float: left
+}
